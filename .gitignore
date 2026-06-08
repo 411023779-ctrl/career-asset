@@ -1,0 +1,4 @@
+# Career asset output files (contain personal data, never commit)
+career-asset-*-data-*.md
+career-asset-*-zh-*.md
+career-asset-*-en-*.md
